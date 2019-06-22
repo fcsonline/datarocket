@@ -1,0 +1,22 @@
+http://localhost:8000
+
+GET /users
+
+
+
+
+
+
+
+
+
+http://localhost:8000
+
+POST /users
+
+{
+  "id": "yolo",
+  "first_name": "yolo",
+  "last_name": "yolo",
+  "nick": "yolo"
+}
